@@ -1,0 +1,15 @@
+{
+    // Sidebar
+    // @jupyterlab/application-extension:sidebar
+    // Sidebar layout settings.
+    // *****************************************
+
+    // Overrides
+    // Overrides for where to show sidebar items
+    "overrides": {
+      "jp-code-snipper-list": "left",
+      "jp-running-sessions": "left",
+      "jp-git-sessions": "left",
+      "command-palette": "left"
+    }
+}
